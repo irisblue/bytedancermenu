@@ -1,0 +1,45 @@
+{
+  "updatedAt": "2026-06-03T01:07:43.018Z",
+  "buildings": [
+    {
+      "key": "SP5",
+      "name": "尚浦商务中心5幢",
+      "search": "尚浦商务中心5幢",
+      "mdmCode": "MDBD00000677",
+      "city": "上海市",
+      "campus": ""
+    },
+    {
+      "key": "T2a",
+      "name": "上海新江湾广场T2a",
+      "search": "上海新江湾广场T2a",
+      "mdmCode": "MDBD00000827",
+      "city": "上海市",
+      "campus": ""
+    },
+    {
+      "key": "T4b",
+      "name": "上海新江湾广场T4b",
+      "search": "上海新江湾广场T4b",
+      "mdmCode": "MDBD00000810",
+      "city": "上海市",
+      "campus": ""
+    },
+    {
+      "key": "T1",
+      "name": "上海新江湾广场T1",
+      "search": "上海新江湾广场T1",
+      "mdmCode": "MDBD00000789",
+      "city": "上海市",
+      "campus": ""
+    },
+    {
+      "key": "YJ",
+      "name": "云际尚浦A塔",
+      "search": "云际尚浦A塔",
+      "mdmCode": "MDBD00000976",
+      "city": "上海市",
+      "campus": ""
+    }
+  ]
+}

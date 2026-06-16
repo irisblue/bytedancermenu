@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "fetch": "node scripts/fetch-bytecanteen.mjs",
+    "build:lite": "node scripts/build-lite.mjs",
+    "build:supabase": "npm run build:lite && node scripts/build-supabase-function.mjs",
+    "watch": "node scripts/watch-menu.mjs --schedule=09:30 --retry-interval=15 --retry-until=11:30",
+    "install:cron": "bash scripts/install-launchd.sh",
+    "serve": "python3 -m http.server 8124"
+  }
+}

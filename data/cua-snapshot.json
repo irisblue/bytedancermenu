@@ -1,0 +1,7068 @@
+{
+  "generatedAt": "2026-06-05T02:46:50.308Z",
+  "date": "2026-06-05",
+  "meal": "breakfast",
+  "source": {
+    "tool": "bytecanteen-cua-fallback",
+    "note": "本次本地 Computer Use 无法访问飞书客户端，先用今日已抓取的早餐菜单生成 apply:cua 所需快照；未补充截图层专属菜品。",
+    "failures": [
+      {
+        "building": "Lark.app",
+        "meal": "breakfast",
+        "error": "Computer Use approval denied via MCP elicitation for com.electron.lark"
+      }
+    ],
+    "visualOnlyItems": []
+  },
+  "workAreas": [
+    {
+      "building": "尚浦商务中心5幢",
+      "meal": "breakfast",
+      "stations": [
+        {
+          "station": "2楼风味自选",
+          "time": "08:30-10:00",
+          "items": [
+            "素菜馒头",
+            "白菜鲜肉包",
+            "梅干菜包",
+            "黄金糕",
+            "千层饼",
+            "白煮蛋",
+            "咸鸭蛋",
+            "豆浆",
+            "白米粥",
+            "莲子花生粥",
+            "莴笋炒蛋",
+            "酸辣土豆丝🌶️",
+            "蚝油生菜",
+            "早餐肠",
+            "蒸土豆",
+            "原味吐司",
+            "全麦吐司",
+            "培根披萨",
+            "香蕉酥",
+            "安佳脱脂牛奶"
+          ],
+          "unreadableItems": []
+        },
+        {
+          "station": "2楼热辣滚烫",
+          "time": "08:30-10:00",
+          "items": [
+            "鱼香肉丝面🌶️"
+          ],
+          "unreadableItems": []
+        }
+      ]
+    },
+    {
+      "building": "上海新江湾广场T2a",
+      "meal": "breakfast",
+      "stations": [
+        {
+          "station": "5层川湘一品",
+          "time": "08:30-10:00",
+          "items": [
+            "猪肉大葱包",
+            "马拉糕",
+            "豆沙酥饼",
+            "猫耳朵",
+            "火龙果坚果吐司",
+            "手工华夫饼",
+            "抹茶三明治蛋糕",
+            "蓝莓蛋卷",
+            "菠萝派",
+            "红薯",
+            "白糯玉米",
+            "山药芙蓉粥",
+            "小米粥",
+            "豆浆",
+            "牛奶",
+            "桃汁",
+            "河南鸡蛋炒蒸菜",
+            "白灼菜心",
+            "炒海带丝",
+            "红肠",
+            "白煮蛋",
+            "咸鸭蛋"
+          ],
+          "unreadableItems": []
+        },
+        {
+          "station": "5层生煎小笼",
+          "time": "08:30-10:00",
+          "items": [
+            "腊肠肠粉套餐"
+          ],
+          "unreadableItems": []
+        },
+        {
+          "station": "5层味爱特·麻辣烫",
+          "time": "08:30-10:00",
+          "items": [
+            "海苔鲜肉小馄饨",
+            "水煮蛋"
+          ],
+          "unreadableItems": []
+        },
+        {
+          "station": "5层中西餐仓",
+          "time": "08:30-10:00",
+          "items": [
+            "白煮蛋",
+            "热干面",
+            "香辣鸡杂拌面/粉🌶",
+            "西红柿鸡蛋面/粉",
+            "蒜苔肉酱面/粉"
+          ],
+          "unreadableItems": []
+        },
+        {
+          "station": "7层淮南牛肉汤",
+          "time": "08:30-10:00",
+          "items": [
+            "鸡蛋灌饼",
+            "豆浆",
+            "白煮蛋"
+          ],
+          "unreadableItems": []
+        },
+        {
+          "station": "7层江浙印象",
+          "time": "08:30-10:00",
+          "items": [
+            "猪肉大葱包",
+            "马拉糕",
+            "豆沙酥饼",
+            "猫耳朵",
+            "火龙果坚果吐司",
+            "手工华夫饼",
+            "抹茶三明治蛋糕",
+            "蓝莓蛋卷",
+            "菠萝派",
+            "红薯",
+            "白糯玉米",
+            "山药芙蓉粥",
+            "小米粥",
+            "豆浆",
+            "牛奶",
+            "桃汁",
+            "河南鸡蛋炒蒸菜",
+            "白灼菜心",
+            "炒海带丝",
+            "红肠",
+            "白煮蛋"
+          ],
+          "unreadableItems": []
+        },
+        {
+          "station": "7层南洋料理",
+          "time": "08:30-10:00",
+          "items": [
+            "胡辣汤🌶",
+            "豆腐脑",
+            "油馍头"
+          ],
+          "unreadableItems": []
+        }
+      ]
+    },
+    {
+      "building": "上海新江湾广场T4b",
+      "meal": "breakfast",
+      "stations": [
+        {
+          "station": "7F 金元宝",
+          "time": "08:30-10:00",
+          "items": [
+            "雪菜肉沫虾籽面",
+            "豇豆肉丝虾籽面",
+            "上海青鲜肉小馄饨（骨汤）",
+            "白煮蛋"
+          ],
+          "unreadableItems": []
+        },
+        {
+          "station": "7F 铁板滋味",
+          "time": "08:30-10:00",
+          "items": [
+            "鸡蛋灌饼",
+            "杂粮煎饼",
+            "豆浆"
+          ],
+          "unreadableItems": []
+        },
+        {
+          "station": "7F 自选暖厨（早餐）",
+          "time": "08:30-10:00",
+          "items": [
+            "豆沙包",
+            "白馒头",
+            "马拉糕",
+            "香煎花卷",
+            "荠菜肉春卷",
+            "玉米猪肉包",
+            "白煮蛋",
+            "咸鸭蛋",
+            "豆浆",
+            "白粥",
+            "豆腐脑",
+            "牛奶",
+            "果汁",
+            "炒面",
+            "清炒茼蒿",
+            "青椒炒蛋",
+            "杏鲍菇肉沫",
+            "蒸玉米",
+            "蒸土豆",
+            "切片原味吐司",
+            "切片全麦吐司",
+            "三明治",
+            "可可蛋糕",
+            "蓝莓酱面包",
+            "玉米面桃酥",
+            "谷维滋",
+            "香甜脆瓜",
+            "五仁酱丁"
+          ],
+          "unreadableItems": []
+        },
+        {
+          "station": "8F 自选暖厨（早餐）",
+          "time": "08:30-10:00",
+          "items": [
+            "尖椒土豆丝",
+            "豆沙包",
+            "白馒头",
+            "马拉糕",
+            "香煎花卷",
+            "荠菜肉春卷",
+            "白煮蛋",
+            "咸鸭蛋",
+            "豆浆",
+            "白粥",
+            "豆腐脑",
+            "牛奶",
+            "果汁",
+            "炒面",
+            "清炒茼蒿",
+            "青椒炒蛋",
+            "杏鲍菇肉沫",
+            "蒸玉米",
+            "蒸土豆",
+            "切片原味吐司",
+            "切片全麦吐司",
+            "三明治",
+            "可可蛋糕",
+            "蓝莓酱面包",
+            "玉米面桃酥",
+            "谷维滋",
+            "香甜脆瓜",
+            "五仁酱丁"
+          ],
+          "unreadableItems": []
+        }
+      ]
+    },
+    {
+      "building": "上海新江湾广场T1",
+      "meal": "breakfast",
+      "stations": [
+        {
+          "station": "3F&A区U滋U味自选餐",
+          "time": "08:30-10:00",
+          "items": [
+            "雪菜肉丝包",
+            "香菇青菜包",
+            "开花馒头",
+            "酱香烧麦",
+            "白茶芋球",
+            "煎饺",
+            "煎鸡蛋",
+            "水煮蛋",
+            "蒸马蹄",
+            "蒸玉米",
+            "小米莲子粥",
+            "胡辣汤",
+            "豆浆 豆花",
+            "牛奶",
+            "培根",
+            "干锅土豆片",
+            "蛋炒饭",
+            "炒青菜",
+            "葡萄干吐司",
+            "蓝莓乳酪贝果",
+            "牛角包",
+            "伯爵红茶戚风蛋糕"
+          ],
+          "unreadableItems": []
+        },
+        {
+          "station": "3F&C区面面俱到",
+          "time": "08:30-10:00",
+          "items": [
+            "青椒香干肉丝面",
+            "水煮蛋"
+          ],
+          "unreadableItems": []
+        },
+        {
+          "station": "3F&C区手工云饺",
+          "time": "08:30-10:00",
+          "items": [
+            "鲜肉小馄饨",
+            "芹菜鲜肉小馄饨",
+            "烧饼",
+            "白煮蛋"
+          ],
+          "unreadableItems": []
+        },
+        {
+          "station": "3F&C区云之南米线坊",
+          "time": "08:30-10:00",
+          "items": [
+            "辣条地道肠饭团",
+            "花生枸杞米糊",
+            "豆浆"
+          ],
+          "unreadableItems": []
+        }
+      ]
+    },
+    {
+      "building": "云际尚浦A塔",
+      "meal": "breakfast",
+      "stations": [
+        {
+          "station": "面面劲道",
+          "time": "08:30-10:00",
+          "items": [
+            "雪菜肉丝面",
+            "热拌河粉",
+            "鲜肉小馄饨（骨汤）"
+          ],
+          "unreadableItems": []
+        },
+        {
+          "station": "轻选食刻",
+          "time": "08:30-10:00",
+          "items": [
+            "原味煎饼+现做豆花"
+          ],
+          "unreadableItems": []
+        },
+        {
+          "station": "自选食光",
+          "time": "08:30-10:00",
+          "items": [
+            "梅干菜肉包",
+            "豆沙刀切",
+            "香辣粉丝包",
+            "马兰饼",
+            "酱香饼",
+            "麻球",
+            "白煮蛋",
+            "荷包蛋",
+            "豆浆",
+            "白米粥",
+            "青菜香菇丝粥",
+            "韭菜炒蛋",
+            "豇豆土豆条",
+            "葱油生菜",
+            "蒸紫薯",
+            "早餐肠",
+            "原味吐司",
+            "全麦吐司",
+            "蒜香迷你法棍",
+            "港式黄油蛋糕",
+            "安佳脱脂牛奶"
+          ],
+          "unreadableItems": []
+        }
+      ]
+    }
+  ],
+  "menus": [
+    {
+      "date": "2026-06-05",
+      "meal": "breakfast",
+      "workArea": "上海新江湾广场T1",
+      "station": "3F&A区U滋U味自选餐",
+      "venue": "上海新江湾广场T1 · 3F&A区U滋U味自选餐",
+      "title": "上海新江湾广场T1早餐 3F&A区U滋U味自选餐",
+      "time": "08:30-10:00",
+      "items": [
+        {
+          "name": "雪菜肉丝包",
+          "imageURLs": [],
+          "description": "猪肉 猪肉 雪菜",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2019359252026053199",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [
+            "咸香"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "香菇青菜包",
+          "imageURLs": [],
+          "description": "面粉 请把 香菇 香干",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20193592520260515198",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "开花馒头",
+          "imageURLs": [],
+          "description": "面粉 红糖",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20193592520260531101",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "酱香烧麦",
+          "imageURLs": [],
+          "description": "糯米 肉丁",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2019359252026053133",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "白茶芋球",
+          "imageURLs": [],
+          "description": "糯米粉 芋头馅",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20193592520260531103",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "煎饺",
+          "imageURLs": [],
+          "description": "面粉 猪肉",
+          "typeName": "🍜面食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20193592520260521400",
+          "dishType": "🍜面食",
+          "cuisine": "",
+          "flavours": [
+            "咸香"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "煎鸡蛋",
+          "imageURLs": [],
+          "description": "鸡蛋",
+          "typeName": "🥚蛋类",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20193592520260521401",
+          "dishType": "🥚蛋类",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "水煮蛋",
+          "imageURLs": [],
+          "description": "鸡蛋",
+          "typeName": "🥚蛋类",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2019359252026053108",
+          "dishType": "🥚蛋类",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "蒸马蹄",
+          "imageURLs": [],
+          "description": "马蹄",
+          "typeName": "🍠粗粮",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2019359252026053109",
+          "dishType": "🍠粗粮",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "蒸玉米",
+          "imageURLs": [],
+          "description": "玉米",
+          "typeName": "🍠粗粮",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2019359252026053140",
+          "dishType": "🍠粗粮",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "小米莲子粥",
+          "imageURLs": [],
+          "description": "莲子 小米",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20193592520260531109",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "胡辣汤",
+          "imageURLs": [],
+          "description": "千张 海带",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2019359252026053142",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "鲜香"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "豆浆 豆花",
+          "imageURLs": [],
+          "description": "黄豆",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2019359252026053144",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "牛奶",
+          "imageURLs": [],
+          "description": "牛奶",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2019359252026053168",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "培根",
+          "imageURLs": [],
+          "description": "猪肉",
+          "typeName": "🥟小吃",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20193592520260531113",
+          "dishType": "🥟小吃",
+          "cuisine": "",
+          "flavours": [
+            "咸香"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "干锅土豆片",
+          "imageURLs": [],
+          "description": "土豆片",
+          "typeName": "🍲炒菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20193592520260531114",
+          "dishType": "🍲炒菜",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "蛋炒饭",
+          "imageURLs": [],
+          "description": "小葱 鸡蛋 大米",
+          "typeName": "🍲炒菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2019359252026053117",
+          "dishType": "🍲炒菜",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "炒青菜",
+          "imageURLs": [],
+          "description": "上海青",
+          "typeName": "🍲炒菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2019359252026053147",
+          "dishType": "🍲炒菜",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "葡萄干吐司",
+          "imageURLs": [],
+          "description": "面粉 鸡蛋 葡萄干 黄油",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2019359252026053152",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "蓝莓乳酪贝果",
+          "imageURLs": [],
+          "description": "面粉 鸡蛋 黄油 奶酪 蓝莓酱",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20193592520260531118",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "牛角包",
+          "imageURLs": [],
+          "description": "面粉 油酥",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20193592520260531119",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "咸香"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "伯爵红茶戚风蛋糕",
+          "imageURLs": [],
+          "description": "面粉 鸡蛋 伯爵红茶",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20193592520260531120",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        }
+      ],
+      "sourceMessage": "bytecanteen-2026-06-05-breakfast-T1-3F-A区U滋U味自选餐",
+      "sourceType": "bytecanteen-api",
+      "createdAt": "2026-06-05T02:35:53.376Z"
+    },
+    {
+      "date": "2026-06-05",
+      "meal": "breakfast",
+      "workArea": "上海新江湾广场T1",
+      "station": "3F&C区面面俱到",
+      "venue": "上海新江湾广场T1 · 3F&C区面面俱到",
+      "title": "上海新江湾广场T1早餐 3F&C区面面俱到",
+      "time": "08:30-10:00",
+      "items": [
+        {
+          "name": "青椒香干肉丝面",
+          "imageURLs": [],
+          "description": "青椒 香干 肉丝",
+          "typeName": "🍜面食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20193592520260531126",
+          "dishType": "🍜面食",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "水煮蛋",
+          "imageURLs": [],
+          "description": "鸡蛋",
+          "typeName": "🥚蛋类",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2019359252026053108",
+          "dishType": "🥚蛋类",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        }
+      ],
+      "sourceMessage": "bytecanteen-2026-06-05-breakfast-T1-3F-C区面面俱到",
+      "sourceType": "bytecanteen-api",
+      "createdAt": "2026-06-05T02:35:53.376Z"
+    },
+    {
+      "date": "2026-06-05",
+      "meal": "breakfast",
+      "workArea": "上海新江湾广场T1",
+      "station": "3F&C区手工云饺",
+      "venue": "上海新江湾广场T1 · 3F&C区手工云饺",
+      "title": "上海新江湾广场T1早餐 3F&C区手工云饺",
+      "time": "08:30-10:00",
+      "items": [
+        {
+          "name": "鲜肉小馄饨",
+          "imageURLs": [],
+          "description": "鲜肉",
+          "typeName": "🍜面食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2019359252026053122",
+          "dishType": "🍜面食",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "芹菜鲜肉小馄饨",
+          "imageURLs": [],
+          "description": "芹菜 鲜肉",
+          "typeName": "🍜面食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20193592520260531125",
+          "dishType": "🍜面食",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "烧饼",
+          "imageURLs": [],
+          "description": "烧饼",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2019359252026053124",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "白煮蛋",
+          "imageURLs": [],
+          "description": "鸡蛋",
+          "typeName": "🥚蛋类",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2019359252026053127",
+          "dishType": "🥚蛋类",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        }
+      ],
+      "sourceMessage": "bytecanteen-2026-06-05-breakfast-T1-3F-C区手工云饺",
+      "sourceType": "bytecanteen-api",
+      "createdAt": "2026-06-05T02:35:53.376Z"
+    },
+    {
+      "date": "2026-06-05",
+      "meal": "breakfast",
+      "workArea": "上海新江湾广场T1",
+      "station": "3F&C区云之南米线坊",
+      "venue": "上海新江湾广场T1 · 3F&C区云之南米线坊",
+      "title": "上海新江湾广场T1早餐 3F&C区云之南米线坊",
+      "time": "08:30-10:00",
+      "items": [
+        {
+          "name": "辣条地道肠饭团",
+          "imageURLs": [],
+          "description": "辣条 大米 糯米 地道肠 黄瓜 榨菜碎 油条",
+          "typeName": "🍚主食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2019359252026053128",
+          "dishType": "🍚主食",
+          "cuisine": "",
+          "flavours": [
+            "咸香"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "花生枸杞米糊",
+          "imageURLs": [],
+          "description": "花生 大米 糯米 枸杞",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2019359252026053129",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "豆浆",
+          "imageURLs": [],
+          "description": "黄豆",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2019359252026053113",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        }
+      ],
+      "sourceMessage": "bytecanteen-2026-06-05-breakfast-T1-3F-C区云之南米线坊",
+      "sourceType": "bytecanteen-api",
+      "createdAt": "2026-06-05T02:35:53.376Z"
+    },
+    {
+      "date": "2026-06-05",
+      "meal": "breakfast",
+      "workArea": "上海新江湾广场T2a",
+      "station": "5层川湘一品",
+      "venue": "上海新江湾广场T2a · 5层川湘一品",
+      "title": "上海新江湾广场T2a早餐 5层川湘一品",
+      "time": "08:30-10:00",
+      "items": [
+        {
+          "name": "猪肉大葱包",
+          "imageURLs": [],
+          "description": "猪肉 大葱",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260529545",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "马拉糕",
+          "imageURLs": [],
+          "description": "糯米粉  白糖红糖",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260529400",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "豆沙酥饼",
+          "imageURLs": [],
+          "description": "面粉 豆沙 芝麻",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531146",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "猫耳朵",
+          "imageURLs": [],
+          "description": "面粉 红糖",
+          "typeName": "炸制",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531147",
+          "dishType": "炸制",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "火龙果坚果吐司",
+          "imageURLs": [],
+          "description": "面粉核桃仁 杏仁 火龙果 葡萄干",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531148",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "手工华夫饼",
+          "imageURLs": [],
+          "description": "面粉 鸡蛋",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2064055932026053142",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "抹茶三明治蛋糕",
+          "imageURLs": [],
+          "description": "面粉 鸡蛋 白糖 抹茶 奶油",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531150",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "蓝莓蛋卷",
+          "imageURLs": [],
+          "description": "面粉 鸡蛋 白糖 蓝莓干",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531151",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "菠萝派",
+          "imageURLs": [],
+          "description": "面粉 鸡蛋 菠萝",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531152",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "红薯",
+          "imageURLs": [],
+          "description": "红薯",
+          "typeName": "🍠杂粮",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531289",
+          "dishType": "🍠杂粮",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "白糯玉米",
+          "imageURLs": [],
+          "description": "玉米",
+          "typeName": "🍠粗粮",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531154",
+          "dishType": "🍠粗粮",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "山药芙蓉粥",
+          "imageURLs": [],
+          "description": "大米糯米山药胡萝卜香菇 鸡蛋青菜",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531155",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "咸香"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "小米粥",
+          "imageURLs": [],
+          "description": "大米 小米 糯米",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260529531",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "豆浆",
+          "imageURLs": [],
+          "description": "黄豆",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2064055932026053123",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "牛奶",
+          "imageURLs": [],
+          "description": "牛奶",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2064055932026053107",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "桃汁",
+          "imageURLs": [],
+          "description": "蜜桃",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531161",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "河南鸡蛋炒蒸菜",
+          "imageURLs": [],
+          "description": "苦菊 茼蒿胡萝卜 鸡蛋 面粉",
+          "typeName": "🍲炒菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531163",
+          "dishType": "🍲炒菜",
+          "cuisine": "",
+          "flavours": [
+            "咸香"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "白灼菜心",
+          "imageURLs": [],
+          "description": "菜心",
+          "typeName": "🍲炒菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531165",
+          "dishType": "🍲炒菜",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "炒海带丝",
+          "imageURLs": [],
+          "description": "海带丝",
+          "typeName": "🍲炒菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531168",
+          "dishType": "🍲炒菜",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "红肠",
+          "imageURLs": [],
+          "description": "猪肉 淀粉",
+          "typeName": "🥟小吃",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531169",
+          "dishType": "🥟小吃",
+          "cuisine": "",
+          "flavours": [
+            "咸香"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "白煮蛋",
+          "imageURLs": [],
+          "description": "鸡蛋",
+          "typeName": "🥚蛋类",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2064055932026053118",
+          "dishType": "🥚蛋类",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "咸鸭蛋",
+          "imageURLs": [],
+          "description": "鸭蛋",
+          "typeName": "🥚蛋类",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531174",
+          "dishType": "🥚蛋类",
+          "cuisine": "",
+          "flavours": [
+            "咸香"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        }
+      ],
+      "sourceMessage": "bytecanteen-2026-06-05-breakfast-T2a-5层川湘一品",
+      "sourceType": "bytecanteen-api",
+      "createdAt": "2026-06-05T02:35:51.035Z"
+    },
+    {
+      "date": "2026-06-05",
+      "meal": "breakfast",
+      "workArea": "上海新江湾广场T2a",
+      "station": "5层生煎小笼",
+      "venue": "上海新江湾广场T2a · 5层生煎小笼",
+      "title": "上海新江湾广场T2a早餐 5层生煎小笼",
+      "time": "08:30-10:00",
+      "items": [
+        {
+          "name": "腊肠肠粉套餐",
+          "imageURLs": [],
+          "description": "糯米粉 鸡蛋 腊肠 香菇",
+          "typeName": "🍜面食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531193",
+          "dishType": "🍜面食",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        }
+      ],
+      "sourceMessage": "bytecanteen-2026-06-05-breakfast-T2a-5层生煎小笼",
+      "sourceType": "bytecanteen-api",
+      "createdAt": "2026-06-05T02:35:51.035Z"
+    },
+    {
+      "date": "2026-06-05",
+      "meal": "breakfast",
+      "workArea": "上海新江湾广场T2a",
+      "station": "5层味爱特·麻辣烫",
+      "venue": "上海新江湾广场T2a · 5层味爱特·麻辣烫",
+      "title": "上海新江湾广场T2a早餐 5层味爱特·麻辣烫",
+      "time": "08:30-10:00",
+      "items": [
+        {
+          "name": "海苔鲜肉小馄饨",
+          "imageURLs": [],
+          "description": "海苔 猪肉 面粉",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531176",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "水煮蛋",
+          "imageURLs": [],
+          "description": "鸡蛋",
+          "typeName": "🥚蛋类",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2064055932026053116",
+          "dishType": "🥚蛋类",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        }
+      ],
+      "sourceMessage": "bytecanteen-2026-06-05-breakfast-T2a-5层味爱特-麻辣烫",
+      "sourceType": "bytecanteen-api",
+      "createdAt": "2026-06-05T02:35:51.035Z"
+    },
+    {
+      "date": "2026-06-05",
+      "meal": "breakfast",
+      "workArea": "上海新江湾广场T2a",
+      "station": "5层中西餐仓",
+      "venue": "上海新江湾广场T2a · 5层中西餐仓",
+      "title": "上海新江湾广场T2a早餐 5层中西餐仓",
+      "time": "08:30-10:00",
+      "items": [
+        {
+          "name": "白煮蛋",
+          "imageURLs": [],
+          "description": "鸡蛋",
+          "typeName": "🥚蛋类",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2064055932026053118",
+          "dishType": "🥚蛋类",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "热干面",
+          "imageURLs": [],
+          "description": "面粉 芝麻酱",
+          "typeName": "🍜面食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2064055932026053119",
+          "dishType": "🍜面食",
+          "cuisine": "",
+          "flavours": [
+            "咸香"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "香辣鸡杂拌面/粉🌶",
+          "imageURLs": [],
+          "description": "面粉 鸡胗 鸡肠",
+          "typeName": "🍜面食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531187",
+          "dishType": "🍜面食",
+          "cuisine": "",
+          "flavours": [
+            "香辣"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "西红柿鸡蛋面/粉",
+          "imageURLs": [],
+          "description": "面粉 鸡蛋 西红柿",
+          "typeName": "🍜面食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531189",
+          "dishType": "🍜面食",
+          "cuisine": "",
+          "flavours": [
+            "咸香"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "蒜苔肉酱面/粉",
+          "imageURLs": [],
+          "description": "蒜苔 猪肉",
+          "typeName": "🍜面食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2064055932026053121",
+          "dishType": "🍜面食",
+          "cuisine": "",
+          "flavours": [
+            "咸香"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        }
+      ],
+      "sourceMessage": "bytecanteen-2026-06-05-breakfast-T2a-5层中西餐仓",
+      "sourceType": "bytecanteen-api",
+      "createdAt": "2026-06-05T02:35:51.035Z"
+    },
+    {
+      "date": "2026-06-05",
+      "meal": "breakfast",
+      "workArea": "上海新江湾广场T2a",
+      "station": "7层淮南牛肉汤",
+      "venue": "上海新江湾广场T2a · 7层淮南牛肉汤",
+      "title": "上海新江湾广场T2a早餐 7层淮南牛肉汤",
+      "time": "08:30-10:00",
+      "items": [
+        {
+          "name": "鸡蛋灌饼",
+          "imageURLs": [],
+          "description": "面粉 鸡蛋 香肠 生菜",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2064055932026053135",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [
+            "辣",
+            "甜",
+            "咸"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "豆浆",
+          "imageURLs": [],
+          "description": "黄豆",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2064055932026053123",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "白煮蛋",
+          "imageURLs": [],
+          "description": "鸡蛋",
+          "typeName": "🥚蛋类",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2064055932026053118",
+          "dishType": "🥚蛋类",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        }
+      ],
+      "sourceMessage": "bytecanteen-2026-06-05-breakfast-T2a-7层淮南牛肉汤",
+      "sourceType": "bytecanteen-api",
+      "createdAt": "2026-06-05T02:35:51.035Z"
+    },
+    {
+      "date": "2026-06-05",
+      "meal": "breakfast",
+      "workArea": "上海新江湾广场T2a",
+      "station": "7层江浙印象",
+      "venue": "上海新江湾广场T2a · 7层江浙印象",
+      "title": "上海新江湾广场T2a早餐 7层江浙印象",
+      "time": "08:30-10:00",
+      "items": [
+        {
+          "name": "猪肉大葱包",
+          "imageURLs": [],
+          "description": "猪肉 大葱",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260529545",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "马拉糕",
+          "imageURLs": [],
+          "description": "糯米粉  白糖红糖",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260529400",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "豆沙酥饼",
+          "imageURLs": [],
+          "description": "面粉 豆沙 芝麻",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531146",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "猫耳朵",
+          "imageURLs": [],
+          "description": "面粉 红糖",
+          "typeName": "炸制",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531147",
+          "dishType": "炸制",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "火龙果坚果吐司",
+          "imageURLs": [],
+          "description": "面粉核桃仁 杏仁 火龙果 葡萄干",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531148",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "手工华夫饼",
+          "imageURLs": [],
+          "description": "面粉 鸡蛋",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2064055932026053142",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "抹茶三明治蛋糕",
+          "imageURLs": [],
+          "description": "面粉 鸡蛋 白糖 抹茶 奶油",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531150",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "蓝莓蛋卷",
+          "imageURLs": [],
+          "description": "面粉 鸡蛋 白糖 蓝莓干",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531151",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "菠萝派",
+          "imageURLs": [],
+          "description": "面粉 鸡蛋 菠萝",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531152",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "红薯",
+          "imageURLs": [],
+          "description": "红薯",
+          "typeName": "🍠粗粮",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531153",
+          "dishType": "🍠粗粮",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "白糯玉米",
+          "imageURLs": [],
+          "description": "玉米",
+          "typeName": "🍠粗粮",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531154",
+          "dishType": "🍠粗粮",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "山药芙蓉粥",
+          "imageURLs": [],
+          "description": "大米糯米山药胡萝卜香菇 鸡蛋青菜",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531155",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "咸香"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "小米粥",
+          "imageURLs": [],
+          "description": "大米 小米 糯米",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260529531",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "豆浆",
+          "imageURLs": [],
+          "description": "黄豆",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2064055932026053123",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "牛奶",
+          "imageURLs": [],
+          "description": "牛奶",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2064055932026053107",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "桃汁",
+          "imageURLs": [],
+          "description": "蜜桃",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531161",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "河南鸡蛋炒蒸菜",
+          "imageURLs": [],
+          "description": "苦菊 茼蒿胡萝卜 鸡蛋 面粉",
+          "typeName": "🍲炒菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531163",
+          "dishType": "🍲炒菜",
+          "cuisine": "",
+          "flavours": [
+            "咸香"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "白灼菜心",
+          "imageURLs": [],
+          "description": "菜心",
+          "typeName": "🍲炒菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531165",
+          "dishType": "🍲炒菜",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "炒海带丝",
+          "imageURLs": [],
+          "description": "海带丝",
+          "typeName": "🍲炒菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531168",
+          "dishType": "🍲炒菜",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "红肠",
+          "imageURLs": [],
+          "description": "猪肉 淀粉",
+          "typeName": "🥟小吃",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531169",
+          "dishType": "🥟小吃",
+          "cuisine": "",
+          "flavours": [
+            "咸香"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "白煮蛋",
+          "imageURLs": [],
+          "description": "鸡蛋",
+          "typeName": "🥚蛋类",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2064055932026053118",
+          "dishType": "🥚蛋类",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        }
+      ],
+      "sourceMessage": "bytecanteen-2026-06-05-breakfast-T2a-7层江浙印象",
+      "sourceType": "bytecanteen-api",
+      "createdAt": "2026-06-05T02:35:51.035Z"
+    },
+    {
+      "date": "2026-06-05",
+      "meal": "breakfast",
+      "workArea": "上海新江湾广场T2a",
+      "station": "7层南洋料理",
+      "venue": "上海新江湾广场T2a · 7层南洋料理",
+      "title": "上海新江湾广场T2a早餐 7层南洋料理",
+      "time": "08:30-10:00",
+      "items": [
+        {
+          "name": "胡辣汤🌶",
+          "imageURLs": [],
+          "description": "面筋片 海带片 黄花菜 木耳",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531180",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "香辣"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "豆腐脑",
+          "imageURLs": [],
+          "description": "黄豆",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2064055932026053134",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "甜",
+            "咸"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "油馍头",
+          "imageURLs": [],
+          "description": "面粉 鸡蛋 油",
+          "typeName": "🍜面食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V20640559320260531182",
+          "dishType": "🍜面食",
+          "cuisine": "",
+          "flavours": [
+            "咸香"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        }
+      ],
+      "sourceMessage": "bytecanteen-2026-06-05-breakfast-T2a-7层南洋料理",
+      "sourceType": "bytecanteen-api",
+      "createdAt": "2026-06-05T02:35:51.035Z"
+    },
+    {
+      "date": "2026-06-05",
+      "meal": "breakfast",
+      "workArea": "上海新江湾广场T4b",
+      "station": "7F 金元宝",
+      "venue": "上海新江湾广场T4b · 7F 金元宝",
+      "title": "上海新江湾广场T4b早餐 7F 金元宝",
+      "time": "08:30-10:00",
+      "items": [
+        {
+          "name": "雪菜肉沫虾籽面",
+          "imageURLs": [],
+          "description": "雪菜、肉丝、虾籽面",
+          "typeName": "🍱套餐",
+          "kindCode": "KIND_BREAKFAST_FLAVOR_STALL",
+          "kindName": "风味档口",
+          "sku": "V2251061522026052901",
+          "dishType": "🍱套餐",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "豇豆肉丝虾籽面",
+          "imageURLs": [],
+          "description": "豇豆、肉丝、生菜、虾籽面",
+          "typeName": "🍱套餐",
+          "kindCode": "KIND_BREAKFAST_FLAVOR_STALL",
+          "kindName": "风味档口",
+          "sku": "V2251061522026052902",
+          "dishType": "🍱套餐",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "上海青鲜肉小馄饨（骨汤）",
+          "imageURLs": [],
+          "description": "上海青、猪肉、馄饨皮",
+          "typeName": "🍱套餐",
+          "kindCode": "KIND_BREAKFAST_FLAVOR_STALL",
+          "kindName": "风味档口",
+          "sku": "V2251061522026052903",
+          "dishType": "🍱套餐",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "白煮蛋",
+          "imageURLs": [],
+          "description": "鸡蛋",
+          "typeName": "🥚蛋类",
+          "kindCode": "KIND_BREAKFAST_FLAVOR_STALL",
+          "kindName": "风味档口",
+          "sku": "V2251061522026052904",
+          "dishType": "🥚蛋类",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        }
+      ],
+      "sourceMessage": "bytecanteen-2026-06-05-breakfast-T4b-7F-金元宝",
+      "sourceType": "bytecanteen-api",
+      "createdAt": "2026-06-05T02:35:51.406Z"
+    },
+    {
+      "date": "2026-06-05",
+      "meal": "breakfast",
+      "workArea": "上海新江湾广场T4b",
+      "station": "7F 铁板滋味",
+      "venue": "上海新江湾广场T4b · 7F 铁板滋味",
+      "title": "上海新江湾广场T4b早餐 7F 铁板滋味",
+      "time": "08:30-10:00",
+      "items": [
+        {
+          "name": "鸡蛋灌饼",
+          "imageURLs": [],
+          "description": "鸡蛋、火腿、土豆、尖椒肉丝、生菜、油条、面饼",
+          "typeName": "🍱套餐",
+          "kindCode": "KIND_BREAKFAST_FLAVOR_STALL",
+          "kindName": "风味档口",
+          "sku": "V2251061522026052905",
+          "dishType": "🍱套餐",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "杂粮煎饼",
+          "imageURLs": [],
+          "description": "鸡蛋、火腿、土豆、尖椒肉丝、生菜、油条、面饼",
+          "typeName": "🍱套餐",
+          "kindCode": "KIND_BREAKFAST_FLAVOR_STALL",
+          "kindName": "风味档口",
+          "sku": "V2251061522026052906",
+          "dishType": "🍱套餐",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "豆浆",
+          "imageURLs": [],
+          "description": "黄豆、水",
+          "typeName": "例汤",
+          "kindCode": "KIND_BREAKFAST_FLAVOR_STALL",
+          "kindName": "风味档口",
+          "sku": "V2251061522026052907",
+          "dishType": "例汤",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        }
+      ],
+      "sourceMessage": "bytecanteen-2026-06-05-breakfast-T4b-7F-铁板滋味",
+      "sourceType": "bytecanteen-api",
+      "createdAt": "2026-06-05T02:35:51.406Z"
+    },
+    {
+      "date": "2026-06-05",
+      "meal": "breakfast",
+      "workArea": "上海新江湾广场T4b",
+      "station": "7F 自选暖厨（早餐）",
+      "venue": "上海新江湾广场T4b · 7F 自选暖厨（早餐）",
+      "title": "上海新江湾广场T4b早餐 7F 自选暖厨（早餐）",
+      "time": "08:30-10:00",
+      "items": [
+        {
+          "name": "豆沙包",
+          "imageURLs": [],
+          "description": "红豆、面粉",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052911",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "白馒头",
+          "imageURLs": [],
+          "description": "面粉",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052915",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "马拉糕",
+          "imageURLs": [],
+          "description": "马拉糕",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052914",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "香煎花卷",
+          "imageURLs": [],
+          "description": "葱、胡萝卜、面粉",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052917",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "荠菜肉春卷",
+          "imageURLs": [],
+          "description": "荠菜肉春卷",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052919",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "玉米猪肉包",
+          "imageURLs": [],
+          "description": "玉米、猪肉、猪皮冻、面粉",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052909",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "白煮蛋",
+          "imageURLs": [],
+          "description": "鸡蛋",
+          "typeName": "🥚蛋类",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052904",
+          "dishType": "🥚蛋类",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "咸鸭蛋",
+          "imageURLs": [],
+          "description": "咸鸭蛋",
+          "typeName": "🥚蛋类",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052922",
+          "dishType": "🥚蛋类",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "豆浆",
+          "imageURLs": [],
+          "description": "黄豆、水",
+          "typeName": "例汤",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052907",
+          "dishType": "例汤",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "白粥",
+          "imageURLs": [],
+          "description": "大米",
+          "typeName": "🥘粥",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052926",
+          "dishType": "🥘粥",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "豆腐脑",
+          "imageURLs": [],
+          "description": "黄豆、糖、榨菜、小葱、虾皮、紫菜",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052939",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "牛奶",
+          "imageURLs": [],
+          "description": "牛奶",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052943",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "果汁",
+          "imageURLs": [],
+          "description": "汇源果汁",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052930",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "炒面",
+          "imageURLs": [],
+          "description": "面、上海青、鸡蛋",
+          "typeName": "🍲炒菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052932",
+          "dishType": "🍲炒菜",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "清炒茼蒿",
+          "imageURLs": [],
+          "description": "茼蒿",
+          "typeName": "热菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052933",
+          "dishType": "热菜",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "青椒炒蛋",
+          "imageURLs": [],
+          "description": "青椒、鸡蛋",
+          "typeName": "热菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052935",
+          "dishType": "热菜",
+          "cuisine": "",
+          "flavours": [
+            "辣"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "杏鲍菇肉沫",
+          "imageURLs": [],
+          "description": "杏鲍菇、肉糜",
+          "typeName": "热菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052936",
+          "dishType": "热菜",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "蒸玉米",
+          "imageURLs": [],
+          "description": "玉米",
+          "typeName": "🍠杂粮",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052938",
+          "dishType": "🍠杂粮",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "蒸土豆",
+          "imageURLs": [],
+          "description": "土豆",
+          "typeName": "🍠杂粮",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052940",
+          "dishType": "🍠杂粮",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "切片原味吐司",
+          "imageURLs": [],
+          "description": "面粉",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V22510615220260529185",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "切片全麦吐司",
+          "imageURLs": [],
+          "description": "面粉",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V22510615220260529188",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "三明治",
+          "imageURLs": [],
+          "description": "吐司、鸡蛋、方腿、沙拉酱",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V22510615220260529190",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "可可蛋糕",
+          "imageURLs": [],
+          "description": "可可粉、鸡蛋、糖、牛奶、油、面粉",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052945",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "蓝莓酱面包",
+          "imageURLs": [],
+          "description": "蓝莓酱、鸡蛋、糖、面粉、牛奶、黄油",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052947",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "玉米面桃酥",
+          "imageURLs": [],
+          "description": "小苏打、泡打粉、鸡蛋、糖、玉米面、面粉、油",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052948",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "谷维滋",
+          "imageURLs": [],
+          "description": "谷维滋",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052950",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "香甜脆瓜",
+          "imageURLs": [],
+          "description": "香甜脆瓜",
+          "typeName": "配菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052952",
+          "dishType": "配菜",
+          "cuisine": "",
+          "flavours": [
+            "辣"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "五仁酱丁",
+          "imageURLs": [],
+          "description": "五仁酱丁",
+          "typeName": "配菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052955",
+          "dishType": "配菜",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        }
+      ],
+      "sourceMessage": "bytecanteen-2026-06-05-breakfast-T4b-7F-自选暖厨-早餐",
+      "sourceType": "bytecanteen-api",
+      "createdAt": "2026-06-05T02:35:51.406Z"
+    },
+    {
+      "date": "2026-06-05",
+      "meal": "breakfast",
+      "workArea": "上海新江湾广场T4b",
+      "station": "8F 自选暖厨（早餐）",
+      "venue": "上海新江湾广场T4b · 8F 自选暖厨（早餐）",
+      "title": "上海新江湾广场T4b早餐 8F 自选暖厨（早餐）",
+      "time": "08:30-10:00",
+      "items": [
+        {
+          "name": "尖椒土豆丝",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🥒素菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V22510615220260528179",
+          "dishType": "🥒素菜",
+          "cuisine": "",
+          "flavours": [
+            "鲜香"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "豆沙包",
+          "imageURLs": [],
+          "description": "红豆、面粉",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052911",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "白馒头",
+          "imageURLs": [],
+          "description": "面粉",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052915",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "马拉糕",
+          "imageURLs": [],
+          "description": "马拉糕",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052914",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "香煎花卷",
+          "imageURLs": [],
+          "description": "葱、胡萝卜、面粉",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052917",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "荠菜肉春卷",
+          "imageURLs": [],
+          "description": "荠菜肉春卷",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052919",
+          "dishType": "🍜面点",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "白煮蛋",
+          "imageURLs": [],
+          "description": "鸡蛋",
+          "typeName": "🥚蛋类",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052904",
+          "dishType": "🥚蛋类",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "咸鸭蛋",
+          "imageURLs": [],
+          "description": "咸鸭蛋",
+          "typeName": "🥚蛋类",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052922",
+          "dishType": "🥚蛋类",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "豆浆",
+          "imageURLs": [],
+          "description": "黄豆、水",
+          "typeName": "例汤",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052907",
+          "dishType": "例汤",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "白粥",
+          "imageURLs": [],
+          "description": "大米",
+          "typeName": "🥘粥",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052926",
+          "dishType": "🥘粥",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "豆腐脑",
+          "imageURLs": [],
+          "description": "黄豆、糖、榨菜、小葱、虾皮、紫菜",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052939",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "牛奶",
+          "imageURLs": [],
+          "description": "牛奶",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052943",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "果汁",
+          "imageURLs": [],
+          "description": "汇源果汁",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052930",
+          "dishType": "🥣流食",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "炒面",
+          "imageURLs": [],
+          "description": "面、上海青、鸡蛋",
+          "typeName": "🍲炒菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052932",
+          "dishType": "🍲炒菜",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "清炒茼蒿",
+          "imageURLs": [],
+          "description": "茼蒿",
+          "typeName": "热菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052933",
+          "dishType": "热菜",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "青椒炒蛋",
+          "imageURLs": [],
+          "description": "青椒、鸡蛋",
+          "typeName": "热菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052935",
+          "dishType": "热菜",
+          "cuisine": "",
+          "flavours": [
+            "辣"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "杏鲍菇肉沫",
+          "imageURLs": [],
+          "description": "杏鲍菇、肉糜",
+          "typeName": "热菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052936",
+          "dishType": "热菜",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "蒸玉米",
+          "imageURLs": [],
+          "description": "玉米",
+          "typeName": "🍠杂粮",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052938",
+          "dishType": "🍠杂粮",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "蒸土豆",
+          "imageURLs": [],
+          "description": "土豆",
+          "typeName": "🍠杂粮",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052940",
+          "dishType": "🍠杂粮",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "切片原味吐司",
+          "imageURLs": [],
+          "description": "面粉",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V22510615220260529185",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "切片全麦吐司",
+          "imageURLs": [],
+          "description": "面粉",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V22510615220260529188",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "三明治",
+          "imageURLs": [],
+          "description": "吐司、鸡蛋、方腿、沙拉酱",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V22510615220260529190",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "可可蛋糕",
+          "imageURLs": [],
+          "description": "可可粉、鸡蛋、糖、牛奶、油、面粉",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052945",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "蓝莓酱面包",
+          "imageURLs": [],
+          "description": "蓝莓酱、鸡蛋、糖、面粉、牛奶、黄油",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052947",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "玉米面桃酥",
+          "imageURLs": [],
+          "description": "小苏打、泡打粉、鸡蛋、糖、玉米面、面粉、油",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052948",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "甜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "谷维滋",
+          "imageURLs": [],
+          "description": "谷维滋",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052950",
+          "dishType": "🍞西式",
+          "cuisine": "",
+          "flavours": [
+            "原味"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "香甜脆瓜",
+          "imageURLs": [],
+          "description": "香甜脆瓜",
+          "typeName": "配菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052952",
+          "dishType": "配菜",
+          "cuisine": "",
+          "flavours": [
+            "辣"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "五仁酱丁",
+          "imageURLs": [],
+          "description": "五仁酱丁",
+          "typeName": "配菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "V2251061522026052955",
+          "dishType": "配菜",
+          "cuisine": "",
+          "flavours": [
+            "咸鲜"
+          ],
+          "ingredients": [],
+          "proteinType": [],
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        }
+      ],
+      "sourceMessage": "bytecanteen-2026-06-05-breakfast-T4b-8F-自选暖厨-早餐",
+      "sourceType": "bytecanteen-api",
+      "createdAt": "2026-06-05T02:35:51.407Z"
+    },
+    {
+      "date": "2026-06-05",
+      "meal": "breakfast",
+      "workArea": "尚浦商务中心5幢",
+      "station": "2楼风味自选",
+      "venue": "尚浦商务中心5幢 · 2楼风味自选",
+      "title": "尚浦商务中心5幢早餐 2楼风味自选",
+      "time": "08:30-10:00",
+      "items": [
+        {
+          "name": "素菜馒头",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "白菜鲜肉包",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "梅干菜包",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "黄金糕",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "千层饼",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍤炸制",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "白煮蛋",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🥚蛋类",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "咸鸭蛋",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🥚蛋类",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "豆浆",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "白米粥",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "莲子花生粥",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "莴笋炒蛋",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍲炒菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "酸辣土豆丝🌶️",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍲炒菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "蚝油生菜",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍲炒菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "早餐肠",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🥟小吃",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "蒸土豆",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍠粗粮",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "原味吐司",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "全麦吐司",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "培根披萨",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "香蕉酥",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "安佳脱脂牛奶",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        }
+      ],
+      "sourceMessage": "bytecanteen-2026-06-05-breakfast-SP5-2楼风味自选",
+      "sourceType": "bytecanteen-api",
+      "createdAt": "2026-06-05T02:35:50.299Z"
+    },
+    {
+      "date": "2026-06-05",
+      "meal": "breakfast",
+      "workArea": "尚浦商务中心5幢",
+      "station": "2楼热辣滚烫",
+      "venue": "尚浦商务中心5幢 · 2楼热辣滚烫",
+      "title": "尚浦商务中心5幢早餐 2楼热辣滚烫",
+      "time": "08:30-10:00",
+      "items": [
+        {
+          "name": "鱼香肉丝面🌶️",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_FLAVOR_STALL",
+          "kindName": "风味档口",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        }
+      ],
+      "sourceMessage": "bytecanteen-2026-06-05-breakfast-SP5-2楼热辣滚烫",
+      "sourceType": "bytecanteen-api",
+      "createdAt": "2026-06-05T02:35:50.299Z"
+    },
+    {
+      "date": "2026-06-05",
+      "meal": "breakfast",
+      "workArea": "云际尚浦A塔",
+      "station": "面面劲道",
+      "venue": "云际尚浦A塔 · 面面劲道",
+      "title": "云际尚浦A塔早餐 面面劲道",
+      "time": "08:30-10:00",
+      "items": [
+        {
+          "name": "雪菜肉丝面",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "热拌河粉",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "鲜肉小馄饨（骨汤）",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        }
+      ],
+      "sourceMessage": "bytecanteen-2026-06-05-breakfast-YJ-面面劲道",
+      "sourceType": "bytecanteen-api",
+      "createdAt": "2026-06-05T02:35:55.321Z"
+    },
+    {
+      "date": "2026-06-05",
+      "meal": "breakfast",
+      "workArea": "云际尚浦A塔",
+      "station": "轻选食刻",
+      "venue": "云际尚浦A塔 · 轻选食刻",
+      "title": "云际尚浦A塔早餐 轻选食刻",
+      "time": "08:30-10:00",
+      "items": [
+        {
+          "name": "原味煎饼+现做豆花",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        }
+      ],
+      "sourceMessage": "bytecanteen-2026-06-05-breakfast-YJ-轻选食刻",
+      "sourceType": "bytecanteen-api",
+      "createdAt": "2026-06-05T02:35:55.321Z"
+    },
+    {
+      "date": "2026-06-05",
+      "meal": "breakfast",
+      "workArea": "云际尚浦A塔",
+      "station": "自选食光",
+      "venue": "云际尚浦A塔 · 自选食光",
+      "title": "云际尚浦A塔早餐 自选食光",
+      "time": "08:30-10:00",
+      "items": [
+        {
+          "name": "梅干菜肉包",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "豆沙刀切",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "香辣粉丝包",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "马兰饼",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍜面点",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "酱香饼",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍤炸制",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "麻球",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍤炸制",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "白煮蛋",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🥚蛋类",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "荷包蛋",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🥚蛋类",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "豆浆",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "白米粥",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "青菜香菇丝粥",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "韭菜炒蛋",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍲炒菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "豇豆土豆条",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍲炒菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "葱油生菜",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍲炒菜",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "蒸紫薯",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍠粗粮",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "早餐肠",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🥟小吃",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "原味吐司",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "全麦吐司",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "蒜香迷你法棍",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "港式黄油蛋糕",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🍞西式",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        },
+        {
+          "name": "安佳脱脂牛奶",
+          "imageURLs": [],
+          "description": "",
+          "typeName": "🥣流食",
+          "kindCode": "KIND_BREAKFAST_SELF_SERVICE",
+          "kindName": "自助餐",
+          "sku": "",
+          "dishType": "",
+          "cuisine": "",
+          "flavours": [],
+          "ingredients": [],
+          "proteinType": "",
+          "servingTemperature": "",
+          "spiciness": null,
+          "nutrition": {
+            "calories": null,
+            "protein": null,
+            "fat": null,
+            "carbohydrates": null,
+            "fiber": null,
+            "sodium": null,
+            "weight": null
+          },
+          "tags": {
+            "allergies": [],
+            "dietaryPreferences": [],
+            "religiousTags": [],
+            "dietaryRequirements": []
+          }
+        }
+      ],
+      "sourceMessage": "bytecanteen-2026-06-05-breakfast-YJ-自选食光",
+      "sourceType": "bytecanteen-api",
+      "createdAt": "2026-06-05T02:35:55.321Z"
+    }
+  ]
+}
